@@ -3,7 +3,7 @@ import Image from "next/image";
 // import tailgrab from "@/app/images/tailgrab.png";
 import tailgrab from "../images/tailgrab.png";
 // import michi from "@/app/images/michi.png";
-import michi from "../images/michi.png";
+import michi from "../images/dog.png";
 // import palawan from "@/app/images/palawan.png";
 import palawan from "../images/palawan.png";
 // import machuPichu from "@/app/images/machuPichu.png";
