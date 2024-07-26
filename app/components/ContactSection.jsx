@@ -57,7 +57,7 @@ const ContactSection = () => {
           {" "}
           I&apos;m actively seeking new opportunities and my inbox is always open. 
           Whether you&apos;re curious about something or simply want to say hello, I&apos;m here and ready to connect. 
-          I'll get back to you as soon as possible!
+          I&apos;ll get back to you as soon as possible!
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/charmieduhh">
